@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "simple backend server step by step ",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/electrone901/fullstack-app-step-by-step-backend.git"
+  },
+  "keywords": [
+    "fullstack"
+  ],
+  "author": "Luis Carbajal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/electrone901/fullstack-app-step-by-step-backend/issues"
+  },
+  "homepage": "https://github.com/electrone901/fullstack-app-step-by-step-backend#readme",
+  "devDependencies": {
+    "express": "^4.16.3",
+    "nodemon": "^1.18.4"
+  }
+}
